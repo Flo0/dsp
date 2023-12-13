@@ -74,3 +74,4 @@ target/
 .local/
 .profile
 .npm/
+.venv/
